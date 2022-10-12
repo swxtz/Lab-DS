@@ -12,7 +12,9 @@ module.exports = {
       "cyan-500": "#81d8f7",
       "cyan-300": "#9be1fb",
 
-      "black-900": "#000000"
+      "black": "#000000",
+      "white": "#FFF",
+      "white-600": "#d0d0d0"
     },
 
     fontSize: {
